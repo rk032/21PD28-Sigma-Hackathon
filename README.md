@@ -46,4 +46,19 @@ and V(d+1) = V(d) in all other cases
 
 ![image](https://github.com/rk032/21PD28-Sigma-Hackathon/assets/105430589/16a9f134-9200-4681-aaa8-b86258170188)
 
+We can interpret that if the line is generally ascending, it suggests an uptrend, while a descending line indicates a downtrend. A flat line may indicate a sideways or consolidating market.
+
+![image](https://github.com/rk032/21PD28-Sigma-Hackathon/assets/105430589/0ebb03aa-1862-47dc-8c6d-f8bb32c60444)
+
+Sudden spikes or dips suggest rapid changes in the stock's value. We can check for any recurring patterns
+
+![image](https://github.com/rk032/21PD28-Sigma-Hackathon/assets/105430589/dce77bea-dd53-45b5-926a-9afcd358de92)
+
+![image](https://github.com/rk032/21PD28-Sigma-Hackathon/assets/105430589/1480b244-76ee-457b-b254-29c810da1784)
+
+
+
+
+
+
 

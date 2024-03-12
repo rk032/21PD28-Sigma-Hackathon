@@ -11,7 +11,6 @@ This project involves the analysis of US stock data for the year 2023 using Quan
   - [State Classification](#state-classification)
   - [Portfolio Value Calculation](#portfolio-value-calculation)
 -[Plots](#plots)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
